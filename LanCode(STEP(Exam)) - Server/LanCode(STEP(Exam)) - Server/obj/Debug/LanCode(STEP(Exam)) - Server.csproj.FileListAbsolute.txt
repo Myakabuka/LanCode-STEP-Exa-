@@ -1,0 +1,7 @@
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\bin\Debug\LanCode(STEP(Exam)) - Server.exe.config
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\bin\Debug\LanCode(STEP(Exam)) - Server.exe
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\bin\Debug\LanCode(STEP(Exam)) - Server.pdb
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\obj\Debug\LanCode(STEP(Exam)) - Server.csprojResolveAssemblyReference.cache
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\obj\Debug\LanCode(STEP(Exam)) - Server.csproj.CoreCompileInputs.cache
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\obj\Debug\LanCode(STEP(Exam)) - Server.exe
+C:\Users\Arys\Documents\Visual Studio 2017\Projects\LanCode(STEP(Exam)) - Server\LanCode(STEP(Exam)) - Server\obj\Debug\LanCode(STEP(Exam)) - Server.pdb
